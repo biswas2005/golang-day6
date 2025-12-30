@@ -15,4 +15,5 @@ func main() {
 	// practice.Merge()
 	// practice.RemoveDuplicates()
 	practice.Practice()
+	
 }
